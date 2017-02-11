@@ -1,0 +1,17 @@
+{
+  "port": "22",
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "35.166.176.164",
+  "target": "/home/ubuntu/test_site",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "keyfile": "/Users/pychen007/Documents/Development/aws_key.pem",
+  "passphrase": "pyc",
+  "watch": [],
+  "transport": "scp",
+  "username": "ubuntu"
+}
