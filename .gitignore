@@ -1,1 +1,3 @@
 .DS_Store
+/testsite/testsite/__pycache__/*
+/testsite/simple/__pycache__/*
